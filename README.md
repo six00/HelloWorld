@@ -1,6 +1,4 @@
 # HelloWorld
-just one
-
 
 Hi guys!
 
